@@ -27,7 +27,7 @@ Também busco aprender os princípios e boas práticas de segurança, criando um
 - Aplicar boas práticas e princípios de segurança
 - Criar uma base sólida para estudos avançados em Cybersegurança
 ---
-## Conceitos Fundamentais
+# Conceitos Fundamentais
 
 ## O que é segurança cibernética?  
 De forma resumida, a segurança cibernética é um esforço contínuo para proteger indivíduos, organizações e governos contra ataques digitais, vazamento de dados e outros riscos relacionados ao uso da tecnologia.
