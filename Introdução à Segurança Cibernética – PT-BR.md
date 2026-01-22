@@ -34,13 +34,17 @@ De forma resumida, a segurança cibernética é um esforço contínuo para prote
 Ela pode ser entendida em três níveis principais:
 
 ### Particular
+
 A segurança cibernética no nível particular diz respeito às práticas que cada indivíduo deve adotar. Nesse contexto, é fundamental proteger a própria identidade digital, os dados pessoais e os dispositivos utilizados no dia a dia, como computadores e smartphones.
 
 ### Corporativa
+
 A segurança cibernética corporativa é uma responsabilidade compartilhada entre todos os membros de uma organização. Seu objetivo é proteger os dados da empresa, a confiança dos clientes e a reputação da corporação, por meio de políticas, controles e boas práticas de segurança.
 
 ### Governamental
+
 O nível governamental é o mais complexo. À medida que mais informações digitais são coletadas e compartilhadas, a proteção desses dados se torna cada vez mais crítica. Nesse cenário, estão em jogo a segurança nacional, a estabilidade econômica e o bem-estar da população.
+
 ---
 ## Protegendo seus dados pessoais
 
