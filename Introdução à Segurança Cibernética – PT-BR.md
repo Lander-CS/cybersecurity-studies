@@ -54,6 +54,8 @@ Ela pode ser entendida em três níveis principais:
   Seus dados incluem qualquer informação que leve até você, seja seu nome, endereço, RG, CPF, número da CNH, data e local de nascimento, ou até mesmo as fotos que você compartilha. Esses criminosos virtuais podem usar essas informaoes para se passar por você, e não é incomum ver isso! Pare pra perceber quantas pessoas são vítimas de golpes no whatsapp.
 Obs: Registros médicos, de educação, de emprego ou financeiro também são dados pessoais e TODOS estão na internet. Então *MESMO QUE VOCÊ NÃO TENHA REDE SOCIAL, OU NÃO USE A INTERNET, VOCÊ TEM UMA IDENTIDADE ONLINE.*
   Roubo de identidade infelizmente tem se tornado comum, e isso inclui também a área da saúde. Por exemplo: O aumento dos custos médicos levou a um aumento no roubo de identidade médica, criminosos digitais roubando seguros médicos para usar os benefícios para si mesmo, e caso isso aconteça com você, saiba que todos os procedimentos realizados por esse criminoso digital, serão salvos em SEU registro médico. O roubo de dados privados podem ajudar esses criminosos a acessar conta bancária, redes sociais, cartões  e outras contas online. Quando o criminoso tem essas informações, ele pode apresentar declarações fiscais falsas e recolher o reembolso, e tudo isso no seu nome. Eles podem até pegar empréstimos e arruinar seu score.
+  
 ---
+
 ## Tipos de dados corporativos
 *em breve...*
