@@ -59,4 +59,32 @@ Ela pode ser entendida em três níveis principais:
 ---
 
 ## Tipos de dados corporativos
-Em breve
+
+### Dados transacionais: 
+Esse é todo dado relacionado a compras e vendas, atividades de produção e operações, organizações básicas como qualquer informação usada para tomar decisões de trabalho.
+
+### Propriedade intelectual:
+Patentes, marcas e planos de novos produtos também são um tipo de dados, eles permitem que uma empresa tenha vantagem sobre seu concorrente.
+
+### Dados Financeiros: 
+Declaração de rendimentos, balanços, e fluxo de caixa proporcionam saúde para empresa e também são dados.
+
+---
+## O cubo de McCumber:
+
+<p>O cubo de McCumber é uma estrutura de modelo criada por Jhon McCumber em 1991, serve para ajudar as empresas a estabelecer e avaliar iniciativas de segurança da informação considerando fatores relacionados. O modelo tem 3 dimensôes:
+
+1. Os principios básicos para proteger os sistemas de informação
+- A confidencialidade serve para evitar que dados sensíveis vazem. Alguns metodos para garantir a confidencialidade são: Criptografia de dados, prova de identidade e autenticação de dois fatores
+- A integridade garante que as informações sejam protegidas contra modificações intencionais ou acidentais. Alguns metodos são: Função Hash ou soma de verificação
+- Disponibilida significa que os usuários autorizados podem acessas sistemas de dados, quando e onde necessário. Isso pode ser alcançado com: Manutenção de Equipamentos, realizando reparos de hardware e etc.
+2. A proteção das informações em cada um de seus possíveis estados.
+- São dados que estão sendo usados para executar uma operação, como atualizar um registro de banco de dados (dados em processo)
+- São os armazenados na memória ou em um dispositivo de armazenamento permanente, como um disco rígido, uma unidade de estado sólido ou uma unidade USB (dados em repouso).
+- Os dados que trafegam entre sistemas de informações (dados em trânsito)
+3. As medidas de segurança usadas pra proteger dados.
+- Conscientização, treinamento e educação dos funcionários da organização.
+- Soluções de software e hardware projetadas para proteger sistemas de informações
+- Política e procedimento se referem aos controles administrativos que fornecem uma base sobre como uma empresa implementa a garantia de informações, como planos de resposta a incidentes e diretrizes de melhores práticas.
+   
+</p>
