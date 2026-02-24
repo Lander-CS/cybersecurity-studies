@@ -127,5 +127,58 @@ find / -name "*.conf" 2>/dev/null
   - Escalonamento de privilégio
  
     
-# 3. Rede (Essencial em Pentest)
+# 🌐 3. Rede (Essencial em Pentest)
 
+## ip a
+Mostra interfaces e endereços IP.
+
+**Uso**
+- Mapear rede interna
+- Identificar interfaces ocultas
+
+---
+
+## ip route
+Mostra tabela de rotas.
+
+**Uso**
+- Descobrir sub-redes acessíveis
+
+---
+
+## ping
+Testa conectividade.
+
+**Uso**
+- Descoberta de hosts ativos
+
+---
+
+## netstat -tulnp
+Lista portas abertas e processos.
+
+**Uso**
+- Identificar serviços locais
+
+---
+
+## ss -tulnp
+Alternativa moderna ao netstat.
+
+**Uso**
+- Enumeração rápida de serviços
+
+---
+
+## arp -a
+Mostra dispositivos na rede local.
+
+**Uso**
+- Descoberta lateral
+
+---
+
+## nc (netcat)
+Ferramenta de rede multifuncional.
+
+``` nc -lvnp 4444```
