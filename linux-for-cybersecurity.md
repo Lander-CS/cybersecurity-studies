@@ -87,13 +87,15 @@ Remove arquivos.
 ## find
 Busca arquivos no sistema.
 
-```bash
+```
 find / -name "*.conf" 2>/dev/null
+```
 ---
 ## locate
 - Busca rápida indexada
 **uso**
 - Encontrar binários específicos rapidamente
+
 
 # 2. Usuários e Permissões
 
@@ -112,4 +114,18 @@ find / -name "*.conf" 2>/dev/null
 - Altera permissãoes
 ``` chmod +x exploit.sh ```
 **uso**
-- 
+- Tornar payload executável
+
+## chown
+- Altera dono do arquivo
+  **uso**
+- Manipulação de acesso quando permitido
+
+## sudo -l
+- Lista permissões sudo.
+  **Uso Crítico**
+  - Escalonamento de privilégio
+ 
+    
+# 3. Rede (Essencial em Pentest)
+
