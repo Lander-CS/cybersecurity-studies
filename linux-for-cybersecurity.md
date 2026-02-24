@@ -1,3 +1,4 @@
+
 # 🐧 Linux para Cybersegurança — Guia Prático de Comandos
 
 Guia focado no uso real de Linux em:
@@ -88,3 +89,27 @@ Busca arquivos no sistema.
 
 ```bash
 find / -name "*.conf" 2>/dev/null
+---
+## locate
+- Busca rápida indexada
+**uso**
+- Encontrar binários específicos rapidamente
+
+# 2. Usuários e Permissões
+
+## whoami
+- mostra o usuário atual
+**uso**
+-Verificar privilégio após exploração
+
+## id
+- Mostra UID e grupos.
+**uso**
+- Verificar acesso priviligediado
+- Avaliar potencial de escalonamento
+
+## chmod
+- Altera permissãoes
+``` chmod +x exploit.sh ```
+**uso**
+- 
